@@ -8,7 +8,6 @@ import network
 
 
 def main():
-	print("git")
 	init.init()
 	while True:
 		network.run()
